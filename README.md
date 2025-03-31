@@ -1,6 +1,6 @@
 # JPA Demo Project
 
-This project demonstrates a CRUD application using **Java Spring Framework**, **JPA**, and **PostgreSQL** with an event-driven microservices architecture.
+This project demonstrates a CRUD application using **Java Spring Framework**, **JPA**, and **PostgreSQL** with an event-driven microservices architecture to build an application that stores Customer POJOs (Plain Old Java Objects) in a memory-based database.
 
 ## Features
 - RESTful API for user management, product catalog, and order processing.
